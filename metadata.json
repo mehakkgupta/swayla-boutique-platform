@@ -1,0 +1,6 @@
+{
+  "name": "Swayla - Boutique Commerce & Seller Platform",
+  "description": "Create and manage your online boutique, live inventory, orders, customer messages, and delightful buyer shopping journey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
